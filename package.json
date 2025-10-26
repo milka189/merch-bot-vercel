@@ -4,8 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "echo skip",
-    "start": "node api/telegram.js"
+  "build": "echo skip",
+  "start": "node api/telegram.js"
+  }
+
 }
 
   },
